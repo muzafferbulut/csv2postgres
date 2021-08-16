@@ -1,0 +1,6 @@
+{
+    "host"     :"localhost",
+    "database" :"sample",
+    "user"     :"postgres",
+    "password" :"Mb42054205"
+}
